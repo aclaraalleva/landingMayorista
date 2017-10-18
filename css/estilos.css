@@ -1,0 +1,424 @@
+/* ========= CSS GENERAL ========= */
+* {
+	box-sizing: border-box;
+	margin:0;
+	padding: 0;
+}
+
+.miniContenedor {
+	width: 1200px;
+	margin:0 auto;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+
+.clear {
+	clear: both;
+}
+
+#contenedor {
+	min-width: 100%;
+}
+
+h1 {
+	font-size: 0px;
+	margin:0;
+}
+
+h3 {
+	font-size: 1.5rem;
+	color: #333;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 1rem;
+	color:#333;
+	font-weight: bold;
+}
+
+p {
+	font-size: 1rem;
+	color: #333;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+}
+
+li {
+	list-style-type: none;
+}
+
+ul {
+	margin:0;
+	padding:0;
+}
+
+.volver {
+	display: block;
+	width: 25%;
+	margin:0 auto;
+	text-align: center;
+	background-color: #ccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color:#333;
+}
+
+/* ========= CSS HEADER ========= */
+
+header {
+	width: 100%;
+	overflow: hidden;
+	padding:10px 0 5px 0;
+}
+
+.logo {
+	width: 15%;
+	float: left;
+	text-align: center;
+}
+.telefono {
+	width: 15%;
+	float: left;
+	text-align: center;
+	padding-top: 8px;
+}
+
+.telefono p {
+	font-size: 1.3rem;
+	line-height: 1rem;
+}
+
+.small {
+	font-size: 0.7rem;
+}
+
+.redesSociales {
+	width: 20%;
+	float: left;
+	padding-top:5px;
+	text-align: center;
+}
+
+.red {
+	margin-left:5px;
+	margin-right: 5px;
+}
+
+.navPrincipal {
+	width: 50%;
+	float: left;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+.navPrincipal li {
+	float: left;
+	width: 33%;
+	border-right: 1px solid #333;
+}
+
+.navPrincipal li:last-child {
+	border:none;
+}
+
+.navPrincipal a {
+	color: #333;
+	width: 100%;
+	padding:5px;
+}
+
+.navPrincipal a:hover {
+	background-color: #26b3d5;
+	color: white;
+}
+
+/* ========= CSS BANNER ROTATIVO ========= */
+
+.bannerRotativo {
+	overflow: hidden;
+	text-align: center;
+	min-width: 100%;
+}
+
+.bannerRotativo a {
+	display: inline-block;
+}
+
+.banner {
+	max-width: 100%;
+ }	
+
+/* ========= CSS PRODUCTOS DESTACADOS CUPOS ========= */
+
+.cupoBuzios2017 {
+	background-image: url(../img/buzios2017.jpg);
+	height: 125px;
+	padding: 20px 0;
+	background-size: cover; 
+	overflow: hidden;
+}
+
+.cupoBuzios2017 h3 {
+	font-size: 65px;
+	color: white;
+}
+
+.descripcionProducto {
+	width: 100%;
+	overflow: hidden;
+	padding:10px 0 10px 0;
+}
+
+.productosDestacados {
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+	padding:10px 0;
+}
+
+.productosDestacados h3 {
+	margin-bottom: 10px;
+}
+
+.videosTutorial {
+		width: 100%;
+		overflow: hidden;
+		background-color: rgba(38,179,213,0.2);
+		padding:5px;
+}
+
+.tituloVideo {
+	padding:10px 0;
+	text-align: center;
+}
+
+.hilera {
+	width:100%;	
+	overflow: hidden;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+.cupoDescripcion {
+	overflow: hidden;
+	float: left;
+	width: 32%;
+	margin-left: 1%;
+	padding:10px;
+	position: relative;
+	height: 200px;
+	text-align: left;
+}
+
+.cupoIndex {
+	overflow: hidden;
+	float: left;
+	width: 24%;
+	margin-left: 1%;
+	padding:10px;
+	position: relative;
+	height: 200px;
+}
+
+.video {
+	overflow: hidden;
+	float: left;
+	margin-left: 5px;
+	width: 24%;
+}
+
+.IP {
+	z-index: -100;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+
+.icono {
+	float: left;
+}
+
+.destino, .descripcion {
+	text-align: left;
+	float: left;
+	width: 80%;
+	height: 100px;
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: white;
+	padding: 5px;
+}
+
+.button {
+	width: 100%;
+	margin-top: 30px;
+	text-align: center;
+	padding:5px 0;
+	color: white;
+	background-color: rgba(51,49,50,0.8);
+	font-weight: bold;
+}
+
+.precio {
+	font-size: 1.7rem;
+	font-weight: bold;
+}
+
+.destacar {
+	font-size: 1rem;
+	padding:2px 5px;
+	background-color: orange;
+	color: white;
+}
+
+/* ========= CSS FOOTER ========= */
+
+footer {
+	width: 100%;
+	background-color: #333;
+	text-align: center;
+	padding:18px 0;
+	overflow: hidden;
+}
+
+.legales {
+	font-variant: small-caps;
+	color: white;
+}
+
+
+/* ========= DETALLE PRODUCTOS========= */
+
+
+.btnDescarga, .btnReserva {
+	width: 33%;
+	float: left;
+	overflow: hidden;
+	padding-top:10px;
+	margin-top:5px;
+}
+
+.btnDescarga {
+		background-color: #D4F0F7;
+}
+
+.btnReserva {
+	background-color:#A8E1EE;
+}
+
+.btn {
+	display: block;
+	width: 200px;
+	padding:5px;
+	background-color: rgba(3,186,215,0.5);
+	color:#333;
+	margin: 10px auto;
+}
+
+
+.legalesProducto {
+	font-variant: small-caps;
+	text-align: justify;
+	padding:10px;
+	font-size: 0.8rem;
+}
+
+.financiacion {
+	padding:20px 0;
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+}
+
+.financiacion img {
+	max-width: 100%;
+}
+
+
+/* ========= CSS MEDIAQUERY ========= */
+
+@media (max-width: 920px) {
+
+	.miniContenedor {
+	width: 920px;
+	margin:0 auto;
+	}
+}
+
+
+@media (max-width: 768px) {
+
+	.logo { width: 100% }
+	.telefono { width: 50%  }
+	.redesSociales { width: 50%  }
+	
+		.miniContenedor {
+	width: 768px;
+	margin:0 auto;
+	}
+}
+
+@media (max-width: 600px) {
+	.telefono { width: 100%  }
+	.redesSociales { width: 100%  }
+	.navPrincipal li {width: 100%;}
+
+		.miniContenedor {
+	width: 600px;
+	margin:0 auto;
+	}
+
+	video {
+		width: 100%;
+	}
+
+	.bannerRotativo {
+		display: none;
+	}
+
+	.button {
+		position:absolute;
+		left:0;
+		bottom: 20px;
+	}
+
+}
+
+
+
+@media (max-width: 480px) {
+	.altura, .altura2 {height:auto;}
+	.telefono { width: 100%  }
+	.redesSociales { width: 100%  }
+	.navPrincipal li {width: 100%;}
+
+		.miniContenedor {
+	width: 480px;
+	margin:0 auto;
+	}
+
+	video {
+		width: 100%;
+	}
+
+
+	.bannerRotativo {
+		display: none;
+	}
+
+	.button {
+		position:absolute;
+		left:0;
+		bottom: 20px;
+	}
+
+}
