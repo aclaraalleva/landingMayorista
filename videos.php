@@ -2,7 +2,7 @@
 		<section class="videosTutorial">
 		
 		<div class="tituloVideo">	
-			<h3>Nuestros Tutoriales</h3>
+			<h2>Nuestros Tutoriales</h2>
 			<h4>Hoteles Online</h4>
 		</div>
 				<div class="video">

@@ -10,7 +10,7 @@
 				</div>
 			<div class="hilera">
 				<div class="cupoDescripcion">
-					<h3>Pousada Buzios Mandarine</h3>
+					<h5>Pousada Buzios Mandarine</h5>
 					<p><span class="destacar">Con Desayuno</span> <strong>Categoría turista superior</strong></p>
 					<br>
 					<p><strong>USD</strong><span class="precio">643</span>(Salidas Oct/Nov/Dic)</p>
@@ -18,7 +18,7 @@
 					<p><strong>USD</strong><span class="precio">832</span>(Feriado Dic)</p>
 				</div>
 				<div class="cupoDescripcion">
-					<h3>Acquamare Residence</h3>
+					<h5>Acquamare Residence</h5>
 					<p><span class="destacar">Media Pensión</span> <strong>Categoría Turista</strong></p>
 					<br>
 					<p><strong>USD</strong><span class="precio">878</span> (Salidas Oct/nov/dec)</p>
@@ -26,7 +26,7 @@
 					<p><strong>USD</strong><span class="precio">1068</span> (Feriado Dic)</p>
 				</div>
 				<div class="cupoDescripcion">
-					<h3>Unicornio</h3>
+					<h5>Unicornio</h5>
 					<p><span class="destacar">Con Desayuno</span> <strong>Categoría turista superior</strong></p>
 					<br>
 					<p><strong>USD</strong><span class="precio">1059</span>(Salidas Oct/Nov/Dic)</p>

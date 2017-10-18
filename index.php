@@ -6,7 +6,7 @@
 	<!--FIN HEADER-->
 	<div class="miniContenedor">
 		<section class="productosDestacados">
-			<h3>¡Nuestros Cupos Confirmados!</h3>
+			<h2>¡Nuestros Cupos Confirmados!</h2>
 			<div class="hilera">
 				<div class="cupoIndex">
 					<img class="icono" src="img/icono.png"/>
@@ -33,12 +33,12 @@
 					<img class="IP" src="img/producto_04.jpg">
 				</div>
 			</div>
-			<div class="financiacion">
-				<h3>Los mejores acuerdos y la mejor financiación</h3>
+			<!-- <div class="financiacion">
+				<h5>Los mejores acuerdos y la mejor financiación</h5>
 				<img src="img/fin-01.jpg"/>
 				<img src="img/fin-02.jpg"/>
 				<img src="img/fin-03.jpg"/>
-			</div>
+			</div> -->
 		</section>
 	</div>
 
