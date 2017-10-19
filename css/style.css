@@ -27,6 +27,7 @@ border:none; }
 
 .titular {
 	text-align: center;
+	padding-bottom: 20px;
 }
 
 .productos {
@@ -124,6 +125,10 @@ border:none; }
 
 .DescProd-L {
 	height: 310px;
+}
+
+.DescProd-l {
+	height: 380px;
 }
 
 .colapsable {

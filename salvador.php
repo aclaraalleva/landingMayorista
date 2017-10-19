@@ -9,24 +9,26 @@
 		</div>
 
 		<div class="row DescProd">
-			<div class="DescProd-S col-xs-12 col-sm-4 col-lg-4">
+			<div class="DescProd-l col-xs-12 col-sm-4 col-lg-4">
 				<img src="img/costaSauipe.jpg"/>
 				<h3>Costa do Sauipe</h3>
 				<p><span class="destacar">Ideal Familias</span></p>
 				Adultos <strong>USD</strong><span class="precio"> 2282</span><br>
 				Niños <strong>USD</strong><span class="precio"> 760</span><br>
 				<p>Dos niños Free en alojamiento.<br>PRECIO FINAL POR PERSONA</p>
+				<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">Reserva</button></a>
 			</div>
 
-				<div class="DescProd-S col-xs-12 col-sm-4 col-lg-4">
+				<div class="DescProd-l col-xs-12 col-sm-4 col-lg-4">
 				<img src="img/iberostar.jpg"/>
 				<h3>Iberostar Bahía</h3>
 				<p><span class="destacar">Ideal Parejas</span></p>
 				<p>Adultos <strong>USD</strong><span class="precio"> 2214</span></p>
 				<p>PRECIO FINAL POR PERSONA</p>
+				<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">Reserva</button></a>
 			</div>
 
-				<div class="DescProd-S col-xs-12 col-sm-4 col-lg-4">
+				<div class="DescProd-l col-xs-12 col-sm-4 col-lg-4">
 				<img src="img/imbassai.jpg"/>
 				<h3>Imbassai</h3>
 				<p><span class="destacar">Ideal Familias</span></p>
@@ -34,6 +36,7 @@
 				1° Niño <strong>USD</strong><span class="precio"> 760</span><br>
 				2° Niño <strong>USD</strong><span class="precio"> 1589</span></p>
 				<p>PRECIO FINAL POR PERSONA</p>
+				<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">Reserva</button></a>
 			</div>
 
 		</div>
