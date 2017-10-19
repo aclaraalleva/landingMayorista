@@ -6,7 +6,6 @@
 	<div class="container">
 		<div class="row titular">
 			<div class="col-lg-12"><h3>Cupos Confirmados: Buzios 2018</h3></div>
-			<div class="col-lg-12"><p><strong>Cupos Propios | Temporada Alta | Verano 2018 Pasaje aéreo Buenos Aires - Río de Janeiro - Buenos Aires</strong><br>7 Noches de alojamiento en hotel a elección con regimen segun corresponda. Transfer en regular Río (GIG) - Buzios - Río (GIG)</p></div>
 		</div>
 
 		<div class="row DescProd">

@@ -35,10 +35,11 @@ border:none; }
 
 .producto {
 	text-align: center;
+	margin-bottom: 10px;
 }
 
 .producto img {
-	border-radius: 10px;
+	border-radius: 3px;
 }
 
 .producto img:hover {
@@ -123,4 +124,9 @@ border:none; }
 
 .DescProd-L {
 	height: 310px;
+}
+
+.colapsable {
+	padding-bottom: 20px;
+	text-align: justify;
 }

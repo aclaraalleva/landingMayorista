@@ -7,8 +7,6 @@
 	<div class="container">
 		<div class="row titular">
 			<div class="col-lg-12"><h3>Cupos Confirmados: Usuahia & Calafate</h3></div>
-			<div class="col-lg-12"><p>Cupos Propios <span style="background-color: red; color: white; padding:0px 5px;"><strong>ULTIMOS LUGARES</strong></span>
-				 Paquetes y Combos de excursiones <strong>Volando con Aerolíneas Argentinas</strong></p></div>
 		</div>
 
 		<div class="row DescProd">

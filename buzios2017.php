@@ -7,7 +7,6 @@
 	<div class="container">
 		<div class="row titular">
 			<div class="col-lg-12"><h3>Cupos Confirmados: Buzios 2017</h3></div>
-			<div class="col-lg-12"><p><strong>Cupos Propios </strong><span style="background-color: red; color: white; padding:0 5px;"><strong>ULTIMOS LUGARES</strong></span> Pasaje aéreo Buenos Aires - Río de Janeiro - Buenos Aires |<br> <strong>7 Noches de alojamiento en hotel a elección con desayuno</strong> Transfer en regular Río (GIG) - Buzios - Río (GIG)</p></div>
 		</div>
 
 		<div class="row DescProd">
