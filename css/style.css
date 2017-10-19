@@ -1,0 +1,126 @@
+a:hover {
+	text-decoration: none;
+}
+
+
+/* ========== NAV BAR ==========*/
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+.navbar-nav li:hover {
+	background-color: #A6DDEA;
+}
+
+.navbar-default { 
+background-color: white;
+border:none; }
+
+.navbar-brand {
+	padding-top:5px;
+	padding-right: 50px; 
+}
+
+
+/* ========== PRODUCTO INDEX ==========*/
+
+.titular {
+	text-align: center;
+}
+
+.productos {
+	padding-bottom:20px;
+}
+
+.producto {
+	text-align: center;
+}
+
+.producto img {
+	border-radius: 10px;
+}
+
+.producto img:hover {
+	opacity: 0.5;
+}
+
+.btnVerMas {
+	margin:none;
+	border:none;
+	background-color: #333;
+	margin-top:10px;
+}
+
+.btnVerMas:hover {
+	background-color: #333;
+	opacity:0.5;
+}
+
+
+/* ========== video ==========*/
+
+.videos {
+	text-align: center;
+}
+
+.jumbotron {
+	margin-bottom: 0;
+	background-image: url(../img/video.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.footer {
+	background-color: #333;
+	color:white;
+	font-size: 1em;
+	padding:20px 0;
+	text-align: center;
+}
+
+.DescProd {
+	text-align: center;
+}
+
+.destacar {
+	background-color: #E3854D;
+	padding:5px;
+	font-weight: bold;
+	color: white;
+	border-radius: 5px;
+}
+
+.precio {
+		font-weight: bold;
+		color: #E3854D;
+		font-size: 1.5em;
+}
+
+.descarga {
+	text-align: center;
+	padding:20px 0;
+	background-color: #A6DDEA;
+}
+
+.descbtn {
+	background-color: #333;
+	border:none;
+}
+
+.descbtn:hover {
+	background-color: #333;
+}
+
+.DescProd-S {
+	height: 320px;
+}
+
+.DescProd-sm {
+	height: 280px;
+}
+
+.DescProd-L {
+	height: 310px;
+}
