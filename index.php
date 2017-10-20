@@ -61,7 +61,6 @@
 		</div>
 	</div>
 
-
 	<?php include 'videos.php';
 
 	 include 'footer.php'; ?>
