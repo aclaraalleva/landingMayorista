@@ -2,6 +2,14 @@ a:hover {
 	text-decoration: none;
 }
 
+h1 {
+	margin:0;
+}
+
+h2 {
+	font-size: 25px;
+}
+
 
 /* ========== NAV BAR ==========*/
 
@@ -9,8 +17,21 @@ a:hover {
 	margin-bottom: 20px;
 }
 
-.navbar-nav li:hover {
+.menuPrincipal li {
+	float:none;
+	display:inline-block;
+}
+
+.menuPrincipal li:hover {
 	background-color: #A6DDEA;
+}
+
+.menuPrincipal {
+	/* text-align:center; */
+	/* width: 100%; */
+	/* margin:0 auto; */
+	/* display:block; */
+	/* float:none; */
 }
 
 .navbar-default { 
@@ -23,15 +44,11 @@ border:none; }
 }
 
 
-/* ========== PRODUCTO INDEX ==========*/
+/* ========== PRODUCTO ==========*/
 
 .titular {
 	text-align: center;
-	padding-bottom: 20px;
-}
-
-.productos {
-	padding-bottom:20px;
+	padding: 10px 0;
 }
 
 .producto {
@@ -40,11 +57,8 @@ border:none; }
 }
 
 .producto img {
-	border-radius: 3px;
-}
-
-.producto img:hover {
-	opacity: 0.5;
+	width: 100%;
+	height: auto;
 }
 
 .btnVerMas {
@@ -59,8 +73,64 @@ border:none; }
 	opacity:0.5;
 }
 
+.DescProd {
+	margin: 15px -15px;
+	text-align: center;
+}
 
-/* ========== video ==========*/
+.destacar {
+	background-color: #E3854D;
+	padding:5px;
+	font-weight: bold;
+	color: white;
+	border-radius: 5px;
+}
+
+span.precio {
+		font-weight: bold;
+		color: #E3854D;
+		font-size: 1.5em;
+}
+
+.descarga {
+	text-align: center;
+	padding:20px 0;
+	background-color: #A6DDEA;
+}
+
+.descbtn {
+	outline: none !important;
+	background-color: #333;
+}
+
+button .collapse {
+	background-color: rgb(51, 122, 138);
+}
+.descbtn:hover {
+	background-color: #333;
+	border-color:#333;
+	opacity:0.5;
+}
+.DescProdCaja {
+	padding:15px
+}
+.DescProdCaja img{
+	height:auto;
+	width:100%
+}
+.colapsable {
+	padding-bottom: 20px;
+	text-align: justify;
+}
+
+.backgroundCaja {
+	background-color:#DDD;
+	padding:15px;
+	
+}
+
+
+/* ========== VIDEO ==========*/
 
 .videos {
 	text-align: center;
@@ -74,6 +144,8 @@ border:none; }
 	color: white;
 }
 
+/* ========== FOOTER ==========*/
+
 .footer {
 	background-color: #333;
 	color:white;
@@ -82,56 +154,9 @@ border:none; }
 	text-align: center;
 }
 
-.DescProd {
-	text-align: center;
-}
-
-.destacar {
-	background-color: #E3854D;
-	padding:5px;
-	font-weight: bold;
-	color: white;
-	border-radius: 5px;
-}
-
-.precio {
-		font-weight: bold;
-		color: #E3854D;
-		font-size: 1.5em;
-}
-
-.descarga {
-	text-align: center;
-	padding:20px 0;
-	background-color: #A6DDEA;
-}
-
-.descbtn {
-	background-color: #333;
-	border:none;
-}
-
-.descbtn:hover {
-	background-color: #333;
-}
-
-.DescProd-S {
-	height: 320px;
-}
-
-.DescProd-sm {
-	height: 280px;
-}
-
-.DescProd-L {
-	height: 310px;
-}
-
-.DescProd-l {
-	height: 380px;
-}
-
-.colapsable {
-	padding-bottom: 20px;
-	text-align: justify;
+@media (max-width: 690px) {
+	.menuPrincipal li.noSocial {
+		width:100%;
+		text-align:center;
+	}
 }
