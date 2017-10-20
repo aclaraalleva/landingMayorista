@@ -27,9 +27,9 @@
       </div>
       <div id="navbar1" class="navbar-collapse collapse">
         <ul class="nav navbar-nav menuPrincipal">
-          <li class="noSocial"><a href="http://www.action.travel/" target="_blank">Action Travel</a>
-          </li><li class="noSocial"><a href="https://ticketya.psurfer.net/security/login.html" target="_blank">Hoteles Online</a>
-          </li><li class="noSocial"><a href="http://www.ticketya.com/" target="_blank">Consolidadora</a>
+          <li class="noSocial"><a href="http://www.action.travel/" target="_blank">ACTION TRAVEL</a>
+          </li><li class="noSocial"><a href="https://ticketya.psurfer.net/security/login.html" target="_blank">HOTELES ONLINE</a>
+          </li><li class="noSocial"><a href="http://www.ticketya.com/" target="_blank">CONSOLIDADORA</a>
           </li><li class="noSocial telefono"><a href="tel:0800-345-4300">0800-345-4300</a>
           </li><li><a href="https://www.facebook.com/TicketYa" target="_blank"><i class="fa fa-facebook" target="_blank"></i></a>
           </li><li><a href="https://twitter.com/Ticket_Ya" target="_blank"><i class="fa fa-twitter" target="_blank"></i></a>

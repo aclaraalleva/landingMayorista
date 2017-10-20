@@ -1,4 +1,3 @@
-
 		<?php
 
 			include 'header.php'; 
@@ -21,7 +20,7 @@
 						<p>Niños <strong>USD</strong> <span class="precio">760</span></p>
 						<p>Dos niños Free en alojamiento.<br />PRECIO FINAL POR PERSONA</p>
 					</div>
-					<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">Reserva</button></a>
+					<a href="mailto:reservas@ticketya.com"><button type="button" class="btnVerMas btn btn-primary">RESERVAR</button></a>
 				</div>
 			</div>
 
@@ -34,7 +33,7 @@
 						<p>Adultos <strong>USD</strong><span class="precio">2214</span></p>
 						<p>PRECIO FINAL POR PERSONA</p>
 					</div>
-					<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">Reserva</button></a>
+					<a href="mailto:reservas@ticketya.com"><button type="button" class="btnVerMas btn btn-primary">RESERVAR</button></a>
 				</div>
 			</div>
 
@@ -49,7 +48,7 @@
 						2° Niño <strong>USD</strong><span class="precio"> 1589</span></p>
 						<p>PRECIO FINAL POR PERSONA</p>
 					</div>
-					<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">Reserva</button></a>
+					<a href="mailto:reservas@ticketya.com"><button type="button" class="btnVerMas btn btn-primary">RESERVAR</button></a>
 				</div>
 			</div>
 
@@ -58,8 +57,8 @@
 		<div class="row colapsable">
 			<div class="col-lg-12">
 				<div class="col-lg-12">
-				<a href="buzios2017.xlsx"><button type="button" class="btn btn-primary">Detalle Vuelos</button></a>
-				<button type="button" class="descbtn btn btn-primary" data-toggle="collapse" data-target="#demo">Legales & Financiación</button>
+				<a href="buzios2017.xlsx"><button type="button" class="btnVerMas btn btn-primary">VER DETALLE AÉREOS</button></a>
+				<button type="button" class="btnVerMas btn btn-primary" data-toggle="collapse" data-target="#demo">LEGALES Y FINANCIACIÓN</button>
 	  			<div id="demo" class="collapse">
 	  			<br />
 	    		<p>SALVADOR: PRECIO POR PASAJERO EN BASE HABITACIÓN DOBLE STANDARD. INCLUYE IVA OPERADOR, IMPUESTOS AÉREOS. NO INCLUYE GASTOS ADMINISTRATIVOS TARIFA COMISIONABLE SOBRE PRECIO SIN IMPUESTOS. SAUIPE HASTA DOS (2) NIÑOS FREE EN ALOJAMIENTO DE 0 A 11,99 AÑOS, IMBASSAI, PRIMER NIÑO FREE EN ALOJAMIENTO DESDE 2 A 11,99 AÑOS, TARIFAS EXCLUSIVA PARA AGENTES DE VIAJE. HASTA 6 CUPOS. SAUIPE E IBEROSTAR CONFIRMACIÓN INMEDIATA. VÁLIDO PARA VENTAS ENTRE EL 11 DE OCTUBRE AL 11 DE NOVIEMBRE DEL 2017,  O HASTA AGOTAR STOCK DE 6 LUGARES PARA INGRESAR EN LAS FECHAS MENCIONADAS EN EL PRESENTE CUPO. POR SER CUPO AÉREO TERRESTRE CONFIRMADO, UNA VEZ PAGO, NO PERMITE DEVOLUCIÓN, CANCELACIÓN, CAMBIOS, MODIFICACIÓN. CONFIRMACIÓN INMEDIATA CON PAGO TOTAL. LOS DESCUENTOS YA SE ENCUENTRAN APLICADOS A LOS PRECIOS PUBLICADOS Y PRORRATEADO POR PERSONA, NO COMBINABLE CON OTRAS PROMOCIONES U OFERTAS VIGENTES. EN CASO DE PAGOS EN EFECTIVO, A LA TARIFA SE LE SUMARÁ UN 5% CONFORME A LA RES.GRAL. AFIP 3819.</p>
@@ -70,24 +69,6 @@
 			</div>
 			</div>
 		</div>
-
-
-<!--
-		<div class="row descarga">
-			<div class="col-lg-4">
-				<h4>Descargá el detalle de los vuelos</h4>
-				<a href=""><button type="button" class="descbtn btn btn-primary">DESCARGAR</button></a>
-			</div>
-			<div class="col-lg-4">
-				<h4>Reservar</h4>
-				<a href="mailto:reservas@ticketya.com"><button type="button" class="descbtn btn btn-primary">RESERVAR</button></a>
-			</div>
-			<div class="col-lg-4">
-				<h4>Volver al Menú Principal</h4>
-				<a href="index.php"><button type="button" class="descbtn btn btn-primary">VOLVER</button></a>
-			</div>
-		</div>
-	</div>-->
 
 	<!--FOOTER-->	
 		<?php include 'footer.php'; ?>
